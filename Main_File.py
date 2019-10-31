@@ -1,3 +1,6 @@
+#main file
+#it is the first file that will get executed
+
 import os
 import hashlib
 import json
