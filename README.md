@@ -1,5 +1,7 @@
 # dfr
 duplicacy-finder-remover
+uses md5sum for file content identification
+also uses cache for reducing calculations
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.ocm/srbcheema1/dfr/issues)
 [![a srbcheema1 production](https://img.shields.io/badge/-a%20srbcheema1%20production-blue.svg)](https://github.com/srbcheema1)
